@@ -1,6 +1,6 @@
 # Devtionary
 
 This is the application for
-[*Devtionary: Simplifying the coding language*]
+[*Devtionary: Simplifying the coding language*](http://devtionary.com)
 
-by [Rohan Jain](www.twitter.com/rohanzsta)
+by [Rohan Jain](http://twitter.com/rohanzsta)
